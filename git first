@@ -5,3 +5,10 @@ git commit -m“第一次提交”
 git branch -M main 
 git remote add origin git@github.com:nngng0824-png/-.git
  git push -u origin main
+
+
+git status   查看
+git init  创建仓库
+ls -al     
+git add  添加文件到仓库
+gid commit -m"  "  提交所以文件到仓库
