@@ -1,2 +1,5 @@
-# remote-repo
-my first repo
+# include<stdio.h>
+int main(){
+printf("hello");
+return 0;
+}
